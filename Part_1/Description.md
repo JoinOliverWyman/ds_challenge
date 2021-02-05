@@ -1,5 +1,5 @@
 ## Part 1 ‐ Exploratory data analysis
-The attached archive contains financial and qualitative data for a number of companies. It also has 'flags.csv' table with event description - we count an event as a default ONLY if it mentions bankruptcy. Perform cleaning, determine default flags and explore the data, try to find some underlying patterns.
+An attached archive contains financial and qualitative data for a number of companies. It also has 'flags.csv' table with an event description - we count an event as a default ONLY if it mentions bankruptcy. Perform cleaning, determine default flags and explore the data, try to find some underlying patterns.
 Visualize the results and briefly comment your insights.
 
 ## Data description
