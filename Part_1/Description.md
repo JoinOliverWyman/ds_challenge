@@ -1,6 +1,6 @@
 ## Part 1 ‐ Exploratory data analysis
 An attached archive contains financial and qualitative data for a number of companies. It also has 'flags.csv' table with default dates. Perform cleaning and explore the data, try to find some underlying patterns.
-Visualize the results and briefly comment your insights.
+Visualize the results and briefly comment on your insights.
 
 ## Data description
 #### Qualitative data
@@ -17,8 +17,8 @@ Visualize the results and briefly comment your insights.
     * **form1**: Форма 1 бухгалтерской отчетности (form2 аналогично)
         * **code**: РСБУ-код
         * **name**: Расшифровка РСБУ-кода
-        * **startValue**: значение на начало года
-        * **endValue**: значение на конец года
+        * **startValue**: Значение на начало года
+        * **endValue**: Значение на конец года
 #### Flags data
 * **id**: ID компании
 * **default_date**: Дата дефолта (решение суда о признании компании банкротом)
