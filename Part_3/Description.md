@@ -1,2 +1,2 @@
 ## Part 3 ‐ Predictive modeling
-Based on the results obtained earlier, build the predictive model to determine the probability of a default. Experiment with different approaches and present the most suitable and effective model (relying on the metrics from Part 2).
+Based on the results obtained earlier, build the predictive model to determine the probability of a default on a fixed 1-year time horizon. Experiment with different approaches and present the most suitable and effective model (relying on the metrics from Part 2), give a few comments on the outcome.

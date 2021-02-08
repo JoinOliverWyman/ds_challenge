@@ -1,5 +1,5 @@
 ## Part 1 ‐ Exploratory data analysis
-An attached archive contains financial and qualitative data for a number of companies. It also has 'flags.csv' table with an event description - we count an event as a default ONLY if it mentions bankruptcy. Perform cleaning, determine default flags and explore the data, try to find some underlying patterns.
+An attached archive contains financial and qualitative data for a number of companies. It also has 'flags.csv' table with default dates. Perform cleaning and explore the data, try to find some underlying patterns.
 Visualize the results and briefly comment your insights.
 
 ## Data description
@@ -12,6 +12,13 @@ Visualize the results and briefly comment your insights.
 #### Financial data
 * **id**: ID компании 
 * **buhForms**: Бухгалтерские формы
+    * **year**: Год отчетности
+    * **organizationType**: Размер организации
+    * **form1**: Форма 1 бухгалтерской отчетности (form2 аналогично)
+        * **code**: РСБУ-код
+        * **name**: Расшифровка РСБУ-кода
+        * **startValue**: значение на начало года
+        * **endValue**: значение на конец года
 #### Flags data
 * **id**: ID компании
-* **flag**: Описание события в свободной форме
+* **default_date**: Дата дефолта (решение суда о признании компании банкротом)
