@@ -11,4 +11,4 @@ The main goal of this challenge is to build a model to predict the probability o
 ## Execution format
 All parts could be executed in IPython Notebook (one or multiple as you prefer). However, you can earn additional points by fitting the prediction pipeline of a final model in a class with methods 'read_data', 'transform_data' and 'predict'. The example is in 'Additional Task' directory.
 
-##### Good luck
+##### Good luck !
