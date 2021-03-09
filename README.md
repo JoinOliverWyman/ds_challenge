@@ -4,6 +4,8 @@ Please submit the result as a Github project. You could find a description and a
 
 The main goal of this challenge is to build a model to predict the probability of default (financial term describing the likelihood that a borrower will be unable to meet its debt obligations). This task contains the following sections:
 * Part 1 ‐ Exploratory data analysis
+
+
 This part of the task assumes efficient json processing as well as applied EDA with an explanation of   what methods of exploring the data are used and what conclusions can be     drawn from this analysis.
 * Part 2 ‐ Experiment and metrics design
 The following part of the task is devoted to the choice of methods for evaluating the quality of the     model. It's worth providing a detailed justification of the chosen         metric, taking into account all the   advantages and disadvantages of it's application to the stated problem.
