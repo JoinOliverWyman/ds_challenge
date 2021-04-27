@@ -30,4 +30,6 @@ If you’d like, you can perform a bonus task to showcase your coding skills: he
 ## Execution format
 All parts could be executed in IPython Notebooks in reproducable way and stored in corresponding folders. However, you can earn additional points by fitting the prediction pipeline of a final model in a class with methods 'read_data', 'transform_data' and 'predict'. The example is in 'Additional Task' directory.
 
+
+Also, please, provide us with your name and working email somewhere in project description.
 ##### Good luck !
